@@ -1,2 +1,3 @@
-2 Player Tic-Tac-Toe Game
+**2-Player Tic-Tac-Toe Game**
+
 Written in Python using Pycharm.
